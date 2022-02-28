@@ -8,11 +8,11 @@ This repository showcases a subset of the projects that I have developed for my 
 
 ## Projects
 
-1. [Samsa](./samsa/README.md)
-2. [CGTipster](./cgtispter/README.md)
-3. [Rapid Notifier](./rapid-notifier/README.md)
-4. [HSS App](./hss-app/README.md)
-5. [Lupus Minder](./lupus-minder/README.md)
+1. [Samsa](./samsa/)
+2. [CGTipster](./cgtispter/)
+3. [Rapid Notifier](./rapid-notifier/)
+4. [HSS App](./hss-app/)
+5. [Lupus Minder](./lupus-minder/)
 
 ## Contact
 
