@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a sign-language-to-voice (and vice-versa) translator, developed in Unity3D using Kinect. You can find a demo of it [here](https://1drv.ms/f/s!AqHLYmGzGRgohTcBqS56lrikXLVo)
+This is a sign-language-to-voice (and vice-versa) translator, developed in Unity3D using Kinect. You can find a demo of it [here](https://bit.ly/seamless-communication-for-hearing-impaired-demo)
 
 It consists of 2 modules.
 
