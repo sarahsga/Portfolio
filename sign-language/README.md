@@ -21,6 +21,7 @@ All stages of the software lifecycle - Planning, Design, Development, Testing, e
 - Photoshop
 - Blender for 3D modelling
 - Microsoft Kinect
+- Java (for Android App developed for receiving sign-language-to-text messages on your phone)
 
 ## Screenshots
 
