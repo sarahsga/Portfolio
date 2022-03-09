@@ -13,7 +13,8 @@ This repository showcases a subset of the projects that I have developed for my 
 3. [Rapid Notifier](./rapid-notifier/)
 4. [HSS App](./hss-app/)
 5. [Lupus Minder](./lupus-minder/)
-6. [ColourLess - A Memory Game](./colourless-game/)
+6. [Seamless Communication For Hearing Impaired](./sign-language/)
+7. [ColourLess - A Memory Game](./colourless-game/)
 
 ## Contact
 
