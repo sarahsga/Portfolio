@@ -20,7 +20,7 @@ All stages of the software lifecycle - Planning, Design, Development, Testing, e
 - C#
 - Photoshop
 - Blender for 3D modelling
-- Windows Kinect
+- Microsoft Kinect
 
 ## Screenshots
 
