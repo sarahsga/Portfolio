@@ -2,8 +2,6 @@
 
 ## Description
 
-Deployed [here](https://ecoenergy.pk/) and [here](https://quote.ecoenergy.pk/)
-
 A web application for sizing a solar PV solution based on the customer’s energy requirements.
 
 The customer inputs their daily electricity needs (e.g. fans, bulbs, ACs, fridge, etc) and duration of use, and the app suggests a solar PV solution - the battery bank, panel array, and inverter size, as well as the wiring and other electrical components required for installation.
