@@ -2,6 +2,8 @@
 
 ## Description
 
+Deployed [here](https://ecoenergy.pk/) and [here](https://quote.ecoenergy.pk/)
+
 A web application for sizing a solar PV solution based on the customer’s energy requirements.
 
 The customer inputs their daily electricity needs (e.g. fans, bulbs, ACs, fridge, etc) and duration of use, and the app suggests a solar PV solution - the battery bank, panel array, and inverter size, as well as the wiring and other electrical components required for installation.
@@ -10,8 +12,8 @@ The customer inputs their daily electricity needs (e.g. fans, bulbs, ACs, fridge
 
 Full-Stack (Frontend, Serverless backend, unit testing) + UI Design
 
-- `React Native` for Mobile frontend
-- `ReactJS` for Web frontend
+- `React Native` for [Mobile frontend](https://apkcombo.com/samsa/com.ecoenergy.samsa/)
+- `ReactJS` for [Web frontend](https://ecoenergy.pk/)
 - `Jest` for **Test-driven development** of sizing algorithm using `Javascript`
 - `Amazon Web Services` for Serverless backend
   - AWS Cognito
