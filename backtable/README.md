@@ -31,7 +31,6 @@ All of the below screenshots demonstrate the development work done by me:
 <img width="200" alt="screenshot - Backtable Mobile" src="./screenshots/mobile/IMG_2532.jpg">
 <img width="200" alt="screenshot - Backtable Mobile" src="./screenshots/mobile/IMG_2533.jpg">
 <img width="200" alt="screenshot - Backtable Mobile" src="./screenshots/mobile/IMG_2536.jpg">
-<img width="200" alt="screenshot - Backtable Mobile" src="./screenshots/mobile/IMG_2538.jpg">
 <img width="200" alt="screenshot - Backtable Mobile" src="./screenshots/mobile/IMG_2539.jpg">
 <img width="200" alt="screenshot - Backtable Mobile" src="./screenshots/mobile/IMG_2540.jpg">
 <img width="200" alt="screenshot - Backtable Mobile" src="./screenshots/mobile/IMG_2542.jpg">
@@ -48,16 +47,16 @@ All of the below screenshots demonstrate the development work done by me:
 
 ### Web
 
-<img width="400" alt="Screenshot- Backtable Web" src="./screenshots/web/about.png">
+<img width="400" alt="Screenshot- Backtable Web" src="./screenshots/web/products-screen.png">
+<img width="400" alt="Screenshot- Backtable Web" src="./screenshots/web/tooltip.png">
+<img width="400" alt="Screenshot- Backtable Web" src="./screenshots/web/products-screen-add-new-product.png">
 <img width="400" alt="Screenshot- Backtable Web" src="./screenshots/web/delete-review-discrete.png">
+<img width="400" alt="Screenshot- Backtable Web" src="./screenshots/web/about.png">
+<img width="400" alt="Screenshot- Backtable Web" src="./screenshots/web/our-team.png">
 <img width="400" alt="Screenshot- Backtable Web" src="./screenshots/web/delete-review-full-screen-overlay.png">
 <img width="400" alt="Screenshot- Backtable Web" src="./screenshots/web/login-screen.png">
 <img width="400" alt="Screenshot- Backtable Web" src="./screenshots/web/other-user-profile-screen .png">
-<img width="400" alt="Screenshot- Backtable Web" src="./screenshots/web/our-team.png">
-<img width="400" alt="Screenshot- Backtable Web" src="./screenshots/web/products-screen-add-new-product.png">
-<img width="400" alt="Screenshot- Backtable Web" src="./screenshots/web/products-screen.png">
 <img width="400" alt="Screenshot- Backtable Web" src="./screenshots/web/profile-screen-edit-bio.png">
 <img width="400" alt="Screenshot- Backtable Web" src="./screenshots/web/profile-screen-invite.png">
 <img width="400" alt="Screenshot- Backtable Web" src="./screenshots/web/profile-screen.png">
 <img width="400" alt="Screenshot- Backtable Web" src="./screenshots/web/review-screen-edit-review-unscrollable-modal.png">
-<img width="400" alt="Screenshot- Backtable Web" src="./screenshots/web/tooltip.png">
