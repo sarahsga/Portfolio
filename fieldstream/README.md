@@ -6,7 +6,7 @@ Dashboard for Fieldstream, a marketing analysis firm.
 
 ## My Responsibilities
 
-- `React (Typescript)` frontend
+- `React (Typescript)` frontend, available [here](https://www.fieldstream.ai/our-platform)
 - Pixel perfect conversion Figma designs to a web app
 - `Tailwind`
 - Auto generate HTML forms and validations from JSON spec
